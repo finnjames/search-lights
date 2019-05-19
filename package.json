@@ -1,23 +1,24 @@
 {
-    "name": "search-lights",
-    "displayName": "Search Lights",
-    "description": "Field Lights based dark theme",
-    "publisher": "radiolevity",
-    "repository": "https://github.com/radiolevity/search-lights",
-    "version": "1.2.0",
-    "engines": {
-        "vscode": "^1.34.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Search Lights",
-                "uiTheme": "vs-dark",
-                "path": "./themes/search-lights-color-theme.json"
-            }
-        ]
-    }
+  "name": "search-lights",
+  "displayName": "Search Lights",
+  "description": "Field Lights based dark theme",
+  "publisher": "radiolevity",
+  "repository": "https://github.com/radiolevity/search-lights",
+  "version": "1.2.0",
+  "icon": "search-lights-color.png",
+  "engines": {
+    "vscode": "^1.34.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Search Lights",
+        "uiTheme": "vs-dark",
+        "path": "./themes/search-lights-color-theme.json"
+      }
+    ]
+  }
 }
