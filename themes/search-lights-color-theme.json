@@ -15,10 +15,11 @@
 		"button.background": "#FFB44A",
 		"button.foreground": "#1A1F28",
     "button.hoverBackground": "#FFCC66BB",
-    
+    // debug
 		"debugExceptionWidget.background": "#272D38",
 		"debugExceptionWidget.border": "#343D4A",
-		"debugToolBar.background": "#272D38",
+    "debugToolBar.background": "#272D38",
+    "debugToolBar.border": "#FFCC66",
 		"diffEditor.insertedTextBackground": "#95E6CB44",
 		"diffEditor.removedTextBackground": "#F0717844",
 		"dropdown.background": "#212733",
@@ -128,8 +129,6 @@
     // status bar
 		"statusBar.background": "#1A1F28",
 		"statusBar.border": "#1A1F28",
-		"statusBar.debuggingBackground": "#FFB44A",
-		"statusBar.debuggingForeground": "#1A1F28",
 		"statusBar.foreground": "#738699",
 		"statusBar.noFolderBackground": "#272D38",
 		"statusBarItem.activeBackground": "#343D4A",
