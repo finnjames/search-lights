@@ -1,3 +1,5 @@
+/* this is blatantly copied (and slightly modified) from the wonderful cobalt2 theme :) */
+
 .monaco-shell {
   font-family: "Operator Mono", "Inconsolata", monospace;
 }
@@ -25,11 +27,11 @@
 }
 
 /*
-  This puts a thin yellow border around the found items like Sublime did it
+  This puts a thin orange border around the found items like Sublime did it
 */
 .monaco-editor .findMatch,
 .monaco-editor .selectionHighlight {
-  border: 1px solid #FFCC66;
+  border: 1px solid #FFB44A;
   border-radius: 2px;
   background: transparent;
 }

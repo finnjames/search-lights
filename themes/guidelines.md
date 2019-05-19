@@ -1,14 +1,13 @@
-Background   #343D4A
-Current Line 
-Selection    ^ ^ ^ ^
-Foreground   
-Comment      
-Cyan         #8BADE8
-Green        #9EDB88
-Orange       #FFCC66
-Pink         
-Purple       #D4BFFF
-Red          #FF4D3D
-Yellow       
+bground  #1A1F28
+comment  #5C6773
+fground  #D9D7CE
 
-Invalid      #FF4D3D
+red      #F07178
+orange   #FFB44A
+yellow   #FFCC66
+green    #B2D97B
+cyan     #95E6CB
+blue     #6BBFF0
+violet   #CFA6ED
+
+invalid  #FF5A4D
