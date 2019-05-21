@@ -21,7 +21,7 @@
     "debugToolBar.background": "#272D38",
     "debugToolBar.border": "#FFCC66",
 		"diffEditor.insertedTextBackground": "#95E6CB44",
-		"diffEditor.removedTextBackground": "#F0717844",
+		"diffEditor.removedTextBackground": "#FF8F9444",
 		"dropdown.background": "#212733",
     "dropdown.listBackground": "#212733",
     // editor
@@ -134,7 +134,9 @@
 		"statusBarItem.activeBackground": "#343D4A",
 		"statusBarItem.hoverBackground": "#303540",
 		"statusBarItem.prominentBackground": "#343D4A",
-		"statusBarItem.prominentHoverBackground": "#303540",
+    "statusBarItem.prominentHoverBackground": "#303540",
+    "statusBar.debuggingBackground": "#FFCC66",
+    "statusBar.debuggingForeground": "#1A1F28",
 		"tab.activeBackground": "#212733",
 		"tab.activeForeground": "#FFCC66",
 		"tab.border": "#1A1F28",
@@ -150,13 +152,13 @@
 		"terminal.ansiBrightCyan": "#C0FAE7",
 		"terminal.ansiBrightGreen": "#CCEE9E",
 		"terminal.ansiBrightMagenta": "#FFC8FF",
-		"terminal.ansiBrightRed": "#F2BBBD",
+		"terminal.ansiBrightRed": "#FFB3B7",
 		"terminal.ansiBrightWhite": "#FFFFFF",
 		"terminal.ansiBrightYellow": "#FFE6B3",
 		"terminal.ansiCyan": "#95E6CB",
 		"terminal.ansiGreen": "#B2D97B",
 		"terminal.ansiMagenta": "#CFA6ED",
-		"terminal.ansiRed": "#F07178",
+		"terminal.ansiRed": "#FF8F94",
 		"terminal.ansiWhite": "#C7C7C7",
 		"terminal.ansiYellow": "#FFCC66",
 		"terminal.background": "#1A1F28",
@@ -234,7 +236,7 @@
 			"name": "Other Variable, String Link",
 			"scope": "support.other.variable, string.other.link",
 			"settings": {
-				"foreground": "#F07178"
+				"foreground": "#FF8F94"
 			}
 		},
 		{
@@ -387,7 +389,7 @@
 			"scope": "markup.italic",
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#F07178"
+				"foreground": "#FF8F94"
 			}
 		},
 		{
@@ -395,7 +397,7 @@
 			"scope": "markup.bold",
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#F07178"
+				"foreground": "#FF8F94"
 			}
 		},
 		{
@@ -605,7 +607,7 @@
 			"name": "AceJump Label - Purple",
 			"scope": "acejump.label.purple",
 			"settings": {
-				"background": "#F07178",
+				"background": "#FF8F94",
 				"foreground": "#FFFFFF"
 			}
 		},
