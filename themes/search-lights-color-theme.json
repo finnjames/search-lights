@@ -126,6 +126,9 @@
 		"sideBarSectionHeader.background": "#1A1F28",
 		"sideBarSectionHeader.foreground": "#FFCC66",
     "sideBarTitle.foreground": "#FFCC6699",
+    "listFilterWidget.background": "#1A1F28",
+    "listFilterWidget.outline": "#FFCC66",
+    "listFilterWidget.noMatchesOutline": "#FF5A4D",
     // status bar
 		"statusBar.background": "#1A1F28",
 		"statusBar.border": "#1A1F28",
@@ -201,7 +204,7 @@
 			"name": "Keyword, Storage",
 			"scope": "keyword, storage.type, storage.modifier",
 			"settings": {
-				"foreground": "#FFB44A"
+				"foreground": "#FF8F94"
 			}
 		},
 		{
@@ -302,7 +305,7 @@
 			"name": "Attributes",
 			"scope": "entity.other.attribute-name",
 			"settings": {
-				"foreground": "#FFB44A"
+				"foreground": "#FF8F94"
 			}
 		},
 		{
@@ -323,7 +326,7 @@
 			"name": "Changed",
 			"scope": "markup.changed",
 			"settings": {
-				"foreground": "#FFB44A"
+				"foreground": "#FF8F94"
 			}
 		},
 		{
@@ -359,7 +362,7 @@
 			"scope": "tag.decorator.js entity.name.tag.js, tag.decorator.js punctuation.definition.tag.js",
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#FFB44A"
+				"foreground": "#FF8F94"
 			}
 		},
 		{
@@ -374,14 +377,14 @@
 			"name": "entity.name.method.js",
 			"scope": "entity.name.method.js",
 			"settings": {
-				"foreground": "#FFB44A"
+				"foreground": "#FF8F94"
 			}
 		},
 		{
 			"name": "meta.method.js",
 			"scope": "meta.class-method.js entity.name.function.js, variable.function.constructor",
 			"settings": {
-				"foreground": "#FFB44A"
+				"foreground": "#FF8F94"
 			}
 		},
 		{
@@ -413,7 +416,7 @@
 			"scope": "markup.strike",
 			"settings": {
 				"fontStyle": "strike",
-				"foreground": "#FFB44A"
+				"foreground": "#FF8F94"
 			}
 		},
 		{
@@ -428,7 +431,7 @@
 			"name": "Markup - Raw Block",
 			"scope": "markup.fenced_code.block.markdown",
 			"settings": {
-				"foreground": "#FFB44A" // orange
+				"foreground": "#FF8F94" // red
 			}
 		},
 		{
@@ -480,7 +483,7 @@
 			"scope": "string.other.link.title.markdown",
 			"settings": {
 				"fontStyle": "underline",
-				"foreground": "#FFB44A"
+				"foreground": "#FF8F94"
 			}
 		},
 		{
