@@ -121,11 +121,11 @@
     "selection.background": "#343F4CFD",
     // side bar
 		"sideBar.background": "#1A1F28",
-		"sideBar.border": "#11141AB3",
-		"sideBar.foreground": "#738699DD",		
+		"sideBar.border": "#1A1F28",
+		"sideBar.foreground": "#738699DD",
 		"sideBarSectionHeader.background": "#1A1F28",
 		"sideBarSectionHeader.foreground": "#FFCC66",
-    "sideBarTitle.foreground": "#FFCC6699",		
+    "sideBarTitle.foreground": "#FFCC6699",
     // status bar
 		"statusBar.background": "#1A1F28",
 		"statusBar.border": "#1A1F28",
@@ -159,8 +159,8 @@
 		"terminal.ansiGreen": "#B2D97B",
 		"terminal.ansiMagenta": "#CFA6ED",
 		"terminal.ansiRed": "#FF8F94",
-		"terminal.ansiWhite": "#C7C7C7",
-		"terminal.ansiYellow": "#FFCC66",
+    "terminal.ansiWhite": "#C7C7C7",
+    "terminal.ansiYellow": "#FFCC66",
 		"terminal.background": "#1A1F28",
 		"terminal.foreground": "#D9D7CE",
 		"terminal.border": "#343D4A",
@@ -273,7 +273,7 @@
 			"scope": "variable.language",
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#6BBFF0"
+				"foreground": "#6BBFF0",
 			}
 		},
 		{
@@ -297,7 +297,7 @@
 			"settings": {
 				"foreground": "#6BBFF090"
 			}
-		},
+    },
 		{
 			"name": "Attributes",
 			"scope": "entity.other.attribute-name",
@@ -311,7 +311,7 @@
 			"settings": {
 				"foreground": "#B2D97B"
 			}
-		},
+    },
 		{
 			"name": "Deleted",
 			"scope": "markup.deleted",
