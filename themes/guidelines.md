@@ -1,13 +1,16 @@
 bground  #1A1F28
 comment  #5C6773
-fground  #D9D7CE
+fground  #DDD7CA
 
-red      #F07178
-orange   #FFB44A
-yellow   #FFCC66
-green    #B2D97B
-cyan     #95E6CB
-blue     #6BBFF0
-violet   #CFA6ED
+red      #F56295
+orange   #FFB06D
+yellow   #FFCC66 // field lights
+green    #93FEC0
+  dark green  #76CC9A
+cyan (v) #B084EB
+blue     #58ABFA
+  pale blue  #7FCDFF
+magenta  #FF75BC
+  pale magenta  #FFA7D3
 
-invalid  #FF5A4D
+alert    #FF4551
