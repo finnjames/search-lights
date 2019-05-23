@@ -24,6 +24,7 @@
 		"diffEditor.removedTextBackground": "#F5629544",
 		"dropdown.background": "#212733",
     "dropdown.listBackground": "#212733",
+    "debug"
     // editor
 		"editor.background": "#212733",
 		"editor.findMatchBackground": "#FFCC6633",
@@ -38,7 +39,7 @@
 		"editorBracketMatch.border": "#3D4752",
 		"editorCursor.foreground": "#FFCC66",
 		"editorError.foreground": "#FF4551",
-		"editorGroup.background": "#272D38",
+		"editorGroup.emptyBackground": "#272D38",
 		"editorGroup.border": "#343D4A",
 		"editorGroupHeader.noTabsBackground": "#212733",
 		"editorGroupHeader.tabsBackground": "#1A1F28",
@@ -375,7 +376,7 @@
     {
       "scope": "punctuation.definition.expression, punctuation.definition.subexpression, punctuation.definition.block.unescaped, punctuation.definition.tag",
       "settings": {
-        "foreground": "#5C6773"
+        "foreground": "#F5629587"
       }
     },
     {
@@ -430,7 +431,7 @@
       "scope": "support.class.component",
       "settings": {
         "foreground": "#FF75BC",
-        // "fontStyle": "italic"
+        "fontStyle": "italic"
       }
     },
     {
@@ -513,7 +514,7 @@
       "scope": "markup.inline.raw",
       "settings": {
         "foreground": "#93FEC0",
-        // "fontStyle": "italic"
+        "fontStyle": "italic"
       }
     },
     {
@@ -532,7 +533,7 @@
       "scope": "fenced_code.block.language",
       "settings": {
         "foreground": "#BBBBBB",
-        // "fontStyle": "italic"
+        "fontStyle": "italic"
       }
     },
     {
@@ -546,7 +547,7 @@
       "scope": "meta.link.inline.markdown",
       "settings": {
         "foreground": "#58ABFA",
-        // "fontStyle": "italic"
+        "fontStyle": "italic"
       }
     },
     {
@@ -662,14 +663,14 @@
       "scope": "entity.name.type.instance.jsdoc punctuation.definition",
       "settings": {
         "foreground": "#FFCC66",
-        // "fontStyle": "italic"
+        "fontStyle": "italic"
       }
     },
     {
       "scope": "entity.name.type.instance.jsdoc",
       "settings": {
         "foreground": "#CDCDCD",
-        // "fontStyle": "italic"
+        "fontStyle": "italic"
       }
     },
     {
