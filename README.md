@@ -1,6 +1,6 @@
 # Search Lights 🎇
 
-[![Version](https://vsmarketplacebadge.apphb.com/version-short/radiolevity.search-lights.svg)](https://aka.ms/nightowl)
+[![Version](https://vsmarketplacebadge.apphb.com/version-short/radiolevity.search-lights.svg)](https://marketplace.visualstudio.com/items?itemName=radiolevity.search-lights)
 
 Based on the lovely [Field Lights](https://marketplace.visualstudio.com/items?itemName=sveggiani.vscode-field-lights), with slightly cooler, more pastel highlighting modified from [Panda Syntax](https://marketplace.visualstudio.com/items?itemName=tinkertrain.theme-panda).
 
