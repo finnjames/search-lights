@@ -4,7 +4,7 @@
   "description": "Field Lights based dark theme",
   "publisher": "radiolevity",
   "repository": "https://github.com/radiolevity/search-lights",
-  "version": "1.7.2",
+  "version": "1.7.3",
   "icon": "search-lights-color.png",
   "engines": {
     "vscode": "^1.34.0"
