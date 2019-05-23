@@ -5,9 +5,9 @@
 Based on the lovely [Field Lights](https://marketplace.visualstudio.com/items?itemName=sveggiani.vscode-field-lights), with slightly cooler, more pastel highlighting modified from [Panda Syntax](https://marketplace.visualstudio.com/items?itemName=tinkertrain.theme-panda).
 
 ## Recommendations
-I recommend using the included custom css, which is a slightly modified version of that from the fantastic cobalt2.
+I recommend using the included custom css, which is a slightly modified version of that from the fantastic [cobalt2](https://marketplace.visualstudio.com/items?itemName=wesbos.theme-cobalt2).
 
-**Font:** Input Mono Condensed
+**Font:** [Input Mono Condensed](http://input.fontbureau.com/download/)
 
 **Icon Theme:** Black & White [City Lights](https://marketplace.visualstudio.com/items?itemName=Yummygum.city-lights-icon-vsc)
 
