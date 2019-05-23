@@ -9,7 +9,7 @@ I recommend using the included custom css, which is a slightly modified version 
 
 **Font:** Input Mono Condensed
 
-**Icon Theme:** Black & White City Lights
+**Icon Theme:** Black & White [City Lights](https://marketplace.visualstudio.com/items?itemName=Yummygum.city-lights-icon-vsc)
 
 **Other extensions:** [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2), [Custom CSS and JS Loader](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css)
 
