@@ -1,5 +1,6 @@
 # Change Log
 
+* 1.7.6 - added git colors in sidebar
 * 1.7.5 - marketplace tweaks
 * 1.7.4 - small stylistic changes, further typos corrected
 * 1.7.3 - misc typos corrected
