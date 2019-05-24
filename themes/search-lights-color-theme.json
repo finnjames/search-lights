@@ -282,13 +282,13 @@
     {
       "scope": "invalid.illegal",
       "settings": {
-        "border-bottom": "1px dashed rgba(204, 0, 71, 0.5)"
+        "foreground": "#FF4551"
       }
     },
     {
       "scope": "invalid.deprecated",
       "settings": {
-        "background-foreground": "rgba(204, 0, 71, 0.62)"
+        "foreground": "#FF4551CC"
       }
     },
     {
@@ -464,14 +464,14 @@
       "scope": "markup.bold",
       "settings": {
         "foreground": "#FFB06D",
-        "font-weight": "bold"
+        "fontStyle": "bold"
       }
     },
     {
       "scope": "punctuation.definition.bold.markdown",
       "settings": {
         "foreground": "#FFCC66",
-        "font-weight": "bold"
+        "fontStyle": "bold"
       }
     },
     {
@@ -554,7 +554,7 @@
       "scope": "string.other.link",
       "settings": {
         "foreground": "#BBBBBB",
-        "fontStyle": "normal"
+        "fontStyle": ""
       }
     },
     {
@@ -659,7 +659,7 @@
       "scope": "string.regexp keyword, string.regexp keyword.control",
       "settings": {
         "foreground": "#FF75BC",
-        "fontStyle": "normal"
+        "fontStyle": ""
       }
     },
     {
@@ -671,7 +671,7 @@
     {
       "scope": "comment.block.documentation",
       "settings": {
-        "fontStyle": "normal"
+        "fontStyle": ""
       }
     },
     {
