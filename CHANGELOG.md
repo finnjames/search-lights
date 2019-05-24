@@ -1,5 +1,6 @@
 # Change Log
 
+* 1.7.8 - further color tweaks
 * 1.7.7 - cooled the orange to be a little bit more sherbet-y
 * 1.7.6 - added git colors in sidebar
 * 1.7.5 - marketplace tweaks
