@@ -9,10 +9,10 @@
 		"activityBarBadge.background": "#FFCC66",
     "activityBarBadge.foreground": "#1A1F28",
     // badge
-		"badge.background": "#FFB06D",
+		"badge.background": "#FF9473",
     "badge.foreground": "#1A1F28",
     // button
-		"button.background": "#FFB06D",
+		"button.background": "#FF9473",
 		"button.foreground": "#1A1F28",
     "button.hoverBackground": "#FFCC66BB",
     // debug
@@ -101,7 +101,7 @@
 		"notificationCenter.border": "#1A1F28",
     "notificationCenterHeader.background": "#1A1F28",
     "notificationCenterHeader.foreground": "#FFCC66",
-    "notificationLink.foreground": "#FFB06D",
+    "notificationLink.foreground": "#FF9473",
     "notificationToast.border": "#1A1F28",
     "notifications.background": "#343D4A",
     "notifications.foreground": "#FFFFFF",
@@ -109,7 +109,7 @@
 		"panel.background": "#1A1F28",
 		"panel.border": "#11141AB3",
 		"panelTitle.activeBorder": "#1A1F28",
-		"panelTitle.activeForeground": "#FFB06D",
+		"panelTitle.activeForeground": "#FF9473",
     "panelTitle.inactiveForeground": "#66737F",
     
 		"peekView.border": "#343D4A",
@@ -173,12 +173,12 @@
     "terminal.ansiMagenta": "#FF75BC",
     "terminal.ansiRed": "#F56295",
     "terminal.ansiWhite": "#DDD7CA",
-    "terminal.ansiYellow": "#FFB06D",
+    "terminal.ansiYellow": "#FF9473",
     // other terminal
 		"terminal.background": "#1A1F28",
 		"terminal.foreground": "#DDD7CA",
     "terminal.border": "#5C6773",
-    "terminalCursor.foreground": "#FFB06D",
+    "terminalCursor.foreground": "#FF9473",
     "terminalCursor.background": "#1A1F28",
 
 		"textBlockQuote.background": "#272D38",
@@ -228,13 +228,13 @@
     {
       "scope": "storage",
       "settings": {
-        "foreground": "#FFB06D"
+        "foreground": "#FF9473"
       }
     },
     {
       "scope": "constant",
       "settings": {
-        "foreground": "#FFB06D"
+        "foreground": "#FF9473"
       }
     },
     {
@@ -348,7 +348,7 @@
     {
       "scope": "meta.decorator punctuation.decorator",
       "settings": {
-        "foreground": "#FFB06D"
+        "foreground": "#FF9473"
       }
     },
     {
@@ -414,7 +414,7 @@
     {
       "scope": "entity.expression variable.parameter.name",
       "settings": {
-        "foreground": "#FFB06D"
+        "foreground": "#FF9473"
       }
     },
     {
@@ -457,13 +457,13 @@
     {
       "scope": "entity.other.attribute-name",
       "settings": {
-        "foreground": "#FFB06D"
+        "foreground": "#FF9473"
       }
     },
     {
       "scope": "markup.bold",
       "settings": {
-        "foreground": "#FFB06D",
+        "foreground": "#FF9473",
         "fontStyle": "bold"
       }
     },
@@ -521,7 +521,7 @@
     {
       "scope": "markup.quote",
       "settings": {
-        "foreground": "#FFB06D"
+        "foreground": "#FF9473"
       }
     },
     {
@@ -646,7 +646,7 @@
     {
       "scope": "keyword.other.unit.rem.css, keyword.other.unit.vh.css, keyword.other.unit.px.css, keyword.other.unit.em.css, keyword.other.unit.deg.css, keyword.other.unit.percentage.css",
       "settings": {
-        "foreground": "#FFB06D"
+        "foreground": "#FF9473"
       }
     },
     {
