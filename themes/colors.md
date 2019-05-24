@@ -3,7 +3,7 @@ comment          #5C6773
 fground          #DDD7CA
 
 red              #F56295
-orange           #FFB06D
+orange           #FF9473
 yellow           #FFCC66 // field lights
 green            #93FEC0
   dark green     #76CC9A
