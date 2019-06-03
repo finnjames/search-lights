@@ -31,8 +31,8 @@
 		"editor.findRangeHighlightBackground": "#FFCC6633",
 		"editor.foreground": "#DDD7CA",
 		"editor.lineHighlightBackground": "#3D4752",
-		"editor.rangeHighlightBackground": "#272D38",
-		"editor.selectionBackground": "#343D4A",
+		"editor.rangeHighlightBackground": "#242B38",
+		"editor.selectionBackground": "#343F4C",
 		"editor.wordHighlightBackground": "#FFCC6633",
 		"editor.wordHighlightStrongBackground": "#FFCC6633",
 		"editorBracketMatch.border": "#3D4752",
@@ -48,7 +48,7 @@
 		"editorGutter.modifiedBackground": "#7FCDFF",
 		"editorHoverWidget.background": "#272D38",
 		"editorHoverWidget.border": "#343D4A",
-		"editorIndentGuide.background": "#272D38",
+		"editorIndentGuide.background": "#2B333B",
 		"editorLineNumber.foreground": "#3D4752",
 		"editorLink.activeForeground": "#FFCC66",
 		"editorMarkerNavigation.background": "#272D38",
@@ -107,10 +107,10 @@
     "notifications.foreground": "#FFFFFF",
 
 		"panel.background": "#1A1F28",
-		"panel.border": "#1A1F28B3",
+		"panel.border": "#11141AB3",
 		"panelTitle.activeBorder": "#1A1F28",
 		"panelTitle.activeForeground": "#FF9473",
-    "panelTitle.inactiveForeground": "#5C6773",
+    "panelTitle.inactiveForeground": "#66737F",
     
 		"peekView.border": "#343D4A",
 		"peekViewEditor.background": "#272D38",
@@ -127,12 +127,12 @@
     
     "progressBar.background": "#FFCC66",
     // scrollbar
-		"scrollbar.shadow": "#1A1F2800",
+		"scrollbar.shadow": "#11141A00",
 		"scrollbarSlider.activeBackground": "#FFFFFF22",
 		"scrollbarSlider.background": "#FFFFFF11",
     "scrollbarSlider.hoverBackground": "#FFFFFF22",
     
-    "selection.background": "#343D4AFF",
+    "selection.background": "#343F4CFF",
     // side bar
 		"sideBar.background": "#1A1F28",
 		"sideBar.border": "#1A1F28",
@@ -155,7 +155,7 @@
 		"tab.activeForeground": "#FFCC66",
 		"tab.border": "#1A1F28",
 		"tab.inactiveBackground": "#1A1F28",
-		"tab.inactiveForeground": "#5C6773",
+		"tab.inactiveForeground": "#516170",
 		"tab.unfocusedActiveForeground": "#DDD7CAAA",
     "tab.unfocusedInactiveForeground": "#738699",
     // terminal.ansi
@@ -189,9 +189,9 @@
 		"titleBar.activeForeground": "#738699",
 		"titleBar.border": "#1A1F28",
 		"titleBar.inactiveBackground": "#1A1F28",
-		"titleBar.inactiveForeground": "#5C6773",
+		"titleBar.inactiveForeground": "#516170",
 		"walkThrough.embeddedEditorBackground": "#272D38",
-		"widget.shadow": "#1A1F28B3"
+		"widget.shadow": "#11141AB3"
 	},
 	"tokenColors": [
     {
