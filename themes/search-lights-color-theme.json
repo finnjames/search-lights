@@ -21,7 +21,7 @@
     "debugToolBar.background": "#272D38",
     "debugToolBar.border": "#FFCC66",
 		"diffEditor.insertedTextBackground": "#95E6CB44",
-		"diffEditor.removedTextBackground": "#F5629544",
+		"diffEditor.removedTextBackground": "#F5617444",
 		"dropdown.background": "#212733",
     "dropdown.listBackground": "#212733",
     // editor
@@ -164,14 +164,14 @@
     "terminal.ansiBrightCyan": "#DAA3FF",
     "terminal.ansiBrightGreen": "#93FEC0",
     "terminal.ansiBrightMagenta": "#FFA7D3",
-    "terminal.ansiBrightRed": "#F56295",
+    "terminal.ansiBrightRed": "#F56174",
     "terminal.ansiBrightWhite": "#E6E6E6",
     "terminal.ansiBrightYellow": "#FFCC66",
     "terminal.ansiBlue": "#58ABFA",
     "terminal.ansiCyan": "#C38EFD",
     "terminal.ansiGreen": "#93FEC0",
     "terminal.ansiMagenta": "#FF75BC",
-    "terminal.ansiRed": "#F56295",
+    "terminal.ansiRed": "#F56174",
     "terminal.ansiWhite": "#DDD7CA",
     "terminal.ansiYellow": "#FF9473",
     // other terminal
@@ -372,7 +372,7 @@
     {
       "scope": "keyword.other.important",
       "settings": {
-        "foreground": "#F56295"
+        "foreground": "#F56174"
       }
     },
     {
@@ -390,7 +390,7 @@
     {
       "scope": "punctuation.definition.expression, punctuation.definition.subexpression, punctuation.definition.block.unescaped, punctuation.definition.tag",
       "settings": {
-        "foreground": "#F5629587"
+        "foreground": "#F5617487"
       }
     },
     {
@@ -483,7 +483,7 @@
     {
       "scope": "markup.deleted",
       "settings": {
-        "foreground": "#F56295"
+        "foreground": "#F56174"
       }
     },
     {
@@ -598,7 +598,7 @@
     {
       "scope": "entity.name.tag.js.jsx, support.class.component.js.jsx",
       "settings": {
-        "foreground": "#F56295"
+        "foreground": "#F56174"
       }
     },
     {
@@ -610,19 +610,19 @@
     {
       "scope": "meta.tag.structure.any.html, meta.tag.other.html, entity.name.tag.html, meta.tag.metadata.script.html, entity.name.tag.jade",
       "settings": {
-        "foreground": "#F56295"
+        "foreground": "#F56174"
       }
     },
     {
       "scope": "entity.name.tag.inline.any.html, entity.name.tag.other.html, entity.name.tag.block.any.html",
       "settings": {
-        "foreground": "#F56295"
+        "foreground": "#F56174"
       }
     },
     {
       "scope": "entity.name.tag.css",
       "settings": {
-        "foreground": "#F56295"
+        "foreground": "#F56174"
       }
     },
     {
@@ -640,7 +640,7 @@
     {
       "scope": "entity.name.tag.reference.scss",
       "settings": {
-        "foreground": "#F56295"
+        "foreground": "#F56174"
       }
     },
     {
