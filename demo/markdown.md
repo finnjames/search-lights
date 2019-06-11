@@ -11,5 +11,5 @@
 3. Choose **Extensions** from menu
 4. Search for `vscode-theme-cobalt2`
 5. Click **Install** to install it
-6. Click **Reload** to reload the Code
+6. Click _Reload_ to reload the Code
 7. File > Preferences > Color Theme > **Cobalt2**

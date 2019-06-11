@@ -1,6 +1,10 @@
-# Search Lights 🎇
+# Search Lights 🌄
 
-[![Version](https://vsmarketplacebadge.apphb.com/version-short/radiolevity.search-lights.svg)](https://marketplace.visualstudio.com/items?itemName=radiolevity.search-lights)
+<a href="https://marketplace.visualstudio.com/items?itemName=radiolevity.search-lights">
+  <img alt="marketplace version" src="https://img.shields.io/vscode-marketplace/v/radiolevity.search-lights.svg?maxAge=3600&style=for-the-badge&colorA=1A1F28&colorB=FFCC66">
+</a>
+
+---
 
 Based on the lovely [Field Lights](https://marketplace.visualstudio.com/items?itemName=sveggiani.vscode-field-lights), with slightly cooler, more pastel highlighting modified from [Panda Syntax](https://marketplace.visualstudio.com/items?itemName=tinkertrain.theme-panda).
 

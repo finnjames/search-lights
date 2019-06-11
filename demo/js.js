@@ -7,6 +7,7 @@ class widget extends React.Component { }
 const joe = function () { };
 
 const wes = 100;
+// hello world
 
 []
 
