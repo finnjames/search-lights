@@ -13,8 +13,8 @@ red              #F56174
 magenta          #FF75BC
   pale magenta   #FFA7D3
 cyan (violet)    #B084EB
-blue             #58ABFA
-  pale blue      #7FCDFF
+blue             #77ABBC
+  pale blue      #7DBBD1
 green            #93FEC0
   dark green     #76CC9A
 
