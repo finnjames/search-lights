@@ -25,6 +25,11 @@
         "label": "Search Lights",
         "uiTheme": "vs-dark",
         "path": "./themes/search-lights-color-theme.json"
+      },
+      {
+        "label": "Mojave Lights",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mojave-lights-color-theme.json"
       }
     ]
   }

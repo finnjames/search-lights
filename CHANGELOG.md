@@ -1,5 +1,6 @@
 # Change Log
 
+* 1.8.0 - New macOS friendly gray variant
 * 1.7.11 - slight blue color tweak
 * 1.7.10 - readme update
 * 1.7.9 - ui color scheme consolidation

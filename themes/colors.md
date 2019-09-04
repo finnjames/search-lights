@@ -7,12 +7,14 @@ base1            #3D4752
 base2  (comment) #5C6773
 base3  (fg)      #DDD7CA
 
-yellow           #FFCC66 // field lights
 orange           #FF9473
+yellow           #FFCC66 // field lights
 red              #F56174
+  pale red       #F58E9C
 magenta          #FF75BC
   pale magenta   #FFA7D3
 cyan (violet)    #B084EB
+  pale cyan (v)  #CFAFFA
 blue             #77ABBC
   pale blue      #7DBBD1
 green            #93FEC0
