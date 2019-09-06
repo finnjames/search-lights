@@ -72,7 +72,7 @@
     // git
     "gitDecoration.modifiedResourceForeground": "#77ABBC87",
     "gitDecoration.deletedResourceForeground": "#FF75BC87",
-    "gitDecoration.untrackedResourceForeground": "#93FEC087",
+    "gitDecoration.untrackedResourceForeground": "#7ef2ae87",
     "gitDecoration.ignoredResourceForeground": "#86868677",
     "gitDecoration.conflictingResourceForeground": "#FF455187",
     // input
@@ -162,14 +162,14 @@
     "terminal.ansiBrightBlack": "#676767",
     "terminal.ansiBrightBlue": "#7DBBD1",
     "terminal.ansiBrightCyan": "#DAA3FF",
-    "terminal.ansiBrightGreen": "#93FEC0",
+    "terminal.ansiBrightGreen": "#7ef2ae",
     "terminal.ansiBrightMagenta": "#FFA7D3",
     "terminal.ansiBrightRed": "#F56174",
     "terminal.ansiBrightWhite": "#E6E6E6",
     "terminal.ansiBrightYellow": "#FFCC66",
     "terminal.ansiBlue": "#77ABBC",
     "terminal.ansiCyan": "#C38EFD",
-    "terminal.ansiGreen": "#93FEC0",
+    "terminal.ansiGreen": "#7ef2ae",
     "terminal.ansiMagenta": "#FF75BC",
     "terminal.ansiRed": "#F56174",
     "terminal.ansiWhite": "#DDD7CA",
@@ -294,7 +294,7 @@
     {
       "scope": "string",
       "settings": {
-        "foreground": "#93FEC0"
+        "foreground": "#7ef2ae"
       }
     },
     {
@@ -408,7 +408,7 @@
     {
       "scope": "constant.other.symbol",
       "settings": {
-        "foreground": "#93FEC0"
+        "foreground": "#7ef2ae"
       }
     },
     {
@@ -503,13 +503,13 @@
     {
       "scope": "markup.inserted",
       "settings": {
-        "foreground": "#93FEC0"
+        "foreground": "#7ef2ae"
       }
     },
     {
       "scope": "punctuation.definition.heading",
       "settings": {
-        "foreground": "#93FEC0"
+        "foreground": "#7ef2ae"
       }
     },
     {
@@ -527,7 +527,7 @@
     {
       "scope": "markup.inline.raw",
       "settings": {
-        "foreground": "#93FEC0",
+        "foreground": "#7ef2ae",
         "fontStyle": "italic"
       }
     },
