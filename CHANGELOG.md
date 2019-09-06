@@ -1,5 +1,6 @@
 # Change Log
 
+* 1.9.0 - fairly sizable rework of Mojave Lights, plus a small blue color tweak
 * 1.8.1 - slight green color tweak (no more Razer bloom)
 * 1.8.0 - New macOS friendly gray variant
 * 1.7.11 - slight blue color tweak
