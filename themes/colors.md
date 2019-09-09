@@ -21,3 +21,14 @@ green            #93FEC0
   dark green     #76CC9A
 
 alert            #FF4551
+
+## Mojave Lights
+
+base03           #1C1C1C
+base02           #202020
+base01           #262626
+base00           #2A2A2A
+base0            #2D2D2D
+base1  (comment) #505050
+base2            #717171
+base3  (fg)      #DDD7CA
