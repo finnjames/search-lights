@@ -110,7 +110,7 @@
 		"panel.border": "#202020B3",
 		"panelTitle.activeBorder": "#202020",
 		"panelTitle.activeForeground": "#FF9473",
-    "panelTitle.inactiveForeground": "#505050",
+    "panelTitle.inactiveForeground": "#717171",
     
 		"peekView.border": "#2D2D2D",
 		"peekViewEditor.background": "#262626",
@@ -158,11 +158,11 @@
 		"tab.activeForeground": "#8CA6BD",
     "tab.border": "#1C1C1C",
 		"tab.inactiveBackground": "#202020",
-		"tab.inactiveForeground": "#505050",
+		"tab.inactiveForeground": "#717171",
 		"tab.unfocusedActiveForeground": "#DDD7CAAA",
     "tab.unfocusedInactiveForeground": "#717171",
     // terminal.ansi
-    "terminal.ansiBrightBlack": "#505050",
+    "terminal.ansiBrightBlack": "#717171",
     "terminal.ansiBrightBlue": "#7DBBD1",
     "terminal.ansiBrightCyan": "#DAA3FF",
     "terminal.ansiBrightGreen": "#66d494",
@@ -192,7 +192,7 @@
 		"titleBar.activeForeground": "#717171",
 		"titleBar.border": "#202020",
 		"titleBar.inactiveBackground": "#202020",
-		"titleBar.inactiveForeground": "#505050",
+		"titleBar.inactiveForeground": "#717171",
 		"walkThrough.embeddedEditorBackground": "#262626",
 		"widget.shadow": "#202020B3"
 	},
@@ -200,7 +200,7 @@
     {
       "scope": "comment",
       "settings": {
-        "foreground": "#505050",
+        "foreground": "#717171",
         "fontStyle": "italic"
       }
     },

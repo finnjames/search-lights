@@ -1,5 +1,6 @@
 # Change Log
 
+* 1.9.2 - brightened Mojave Lights comment color
 * 1.9.1 - small color tweaks, updated colors.md
 * 1.9.0 - fairly sizable rework of Mojave Lights, plus a small blue color tweak
 * 1.8.1 - slight green color tweak (no more Razer bloom)
