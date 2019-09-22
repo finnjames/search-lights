@@ -16,13 +16,17 @@ I recommend using the included custom css, which is a slightly modified version 
 
 **Font:** [Input Mono Condensed](http://input.fontbureau.com/download/)
 
-**Icon Theme:** Black & White [City Lights](https://marketplace.visualstudio.com/items?itemName=Yummygum.city-lights-icon-vsc)
+**Icon Theme:**
+
+Search Lights: Black & White [City Lights](https://marketplace.visualstudio.com/items?itemName=Yummygum.city-lights-icon-vsc)
+
+Mojave Lights: [Minimalistic Icons](https://marketplace.visualstudio.com/items?itemName=LaurentTreguier.vscode-simple-icons)
 
 **Other extensions:** [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2), [Custom CSS and JS Loader](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css)
 
 **User Settings:**
 
-```
+``` json
 "bracket-pair-colorizer-2.colors": [
     "#FFCC66",
     "#7FCDFF",

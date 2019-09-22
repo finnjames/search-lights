@@ -14,7 +14,7 @@
     // button
 		"button.background": "#FF9473",
 		"button.foreground": "#202020",
-    "button.hoverBackground": "#8CA6BDBB",
+    "button.hoverBackground": "#FF9473BB",
     // debug
 		"debugExceptionWidget.background": "#262626",
 		"debugExceptionWidget.border": "#2D2D2D",
