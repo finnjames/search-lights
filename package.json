@@ -27,9 +27,9 @@
         "path": "./themes/search-lights-color-theme.json"
       },
       {
-        "label": "Mojave Lights",
+        "label": "Desert Lights",
         "uiTheme": "vs-dark",
-        "path": "./themes/mojave-lights-color-theme.json"
+        "path": "./themes/desert-lights-color-theme.json"
       }
     ]
   }

@@ -1,9 +1,10 @@
 # Change Log
 
+* 1.9.4 - updated naming scheme to make more sense
 * 1.9.3 - changed button highlight color and updated readme
-* 1.9.2 - brightened Mojave Lights comment color
+* 1.9.2 - brightened Desert Lights comment color
 * 1.9.1 - small color tweaks, updated colors.md
-* 1.9.0 - fairly sizable rework of Mojave Lights, plus a small blue color tweak
+* 1.9.0 - fairly sizable rework of Desert Lights, plus a small blue color tweak
 * 1.8.1 - slight green color tweak (no more Razer bloom)
 * 1.8.0 - new macOS friendly gray variant
 * 1.7.11 - slight blue color tweak

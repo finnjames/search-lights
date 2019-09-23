@@ -8,7 +8,7 @@
 
 Based on the lovely [Field Lights](https://marketplace.visualstudio.com/items?itemName=sveggiani.vscode-field-lights), with slightly cooler, more pastel highlighting modified from [Panda Syntax](https://marketplace.visualstudio.com/items?itemName=tinkertrain.theme-panda).
 
-_Includes macOS dark mode friendly variant called Mojave Lights_
+_Includes macOS dark mode friendly variant called Desert Lights_
 
 ## Recommendations
 
