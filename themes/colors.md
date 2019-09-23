@@ -22,7 +22,7 @@ green            #93FEC0
 
 alert            #FF4551
 
-## Mojave Lights
+## Desert Lights
 
 base03           #1C1C1C
 base02           #202020
