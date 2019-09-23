@@ -20,7 +20,7 @@ I recommend using the included custom css, which is a slightly modified version 
 
 Search Lights: Black & White [City Lights](https://marketplace.visualstudio.com/items?itemName=Yummygum.city-lights-icon-vsc)
 
-Mojave Lights: [Minimalistic Icons](https://marketplace.visualstudio.com/items?itemName=LaurentTreguier.vscode-simple-icons)
+Desert Lights: [Minimalistic Icons](https://marketplace.visualstudio.com/items?itemName=LaurentTreguier.vscode-simple-icons)
 
 **Other extensions:** [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2), [Custom CSS and JS Loader](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css)
 
