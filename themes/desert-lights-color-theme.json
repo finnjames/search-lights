@@ -702,6 +702,12 @@
       "settings": {
         "foreground": "#FFA7D3"
       }
+    },
+    {
+      "scope": "meta.tag.xml",
+      "settings": {
+        "foreground": "#F56174"
+      }
     }
   ]
 }
