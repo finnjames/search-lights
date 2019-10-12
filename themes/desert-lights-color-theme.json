@@ -219,7 +219,7 @@
     {
       "scope": "keyword.operator",
       "settings": {
-        "foreground": "#E6E6E6"
+        "foreground": "#FFCC66"
       }
     },
     {
@@ -707,6 +707,12 @@
       "scope": "meta.tag.xml",
       "settings": {
         "foreground": "#F56174"
+      }
+    },
+    {
+      "scope": "meta.function-call.python",
+      "settings": {
+        "foreground": "#A9C3D9"
       }
     }
   ]

@@ -1,5 +1,6 @@
 # Change Log
 
+* 1.9.8 - python highlight fix
 * 1.9.7 - xml highlight fix
 * 1.9.6 - xml tag highlighting
 * 1.9.5 - readme update
