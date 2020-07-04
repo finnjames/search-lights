@@ -49,7 +49,8 @@
 		"editorHoverWidget.background": "#272D38",
 		"editorHoverWidget.border": "#343D4A",
 		"editorIndentGuide.background": "#272D38",
-		"editorLineNumber.foreground": "#3D4752",
+    "editorLineNumber.foreground": "#3D4752",
+    "editorLineNumber.activeForeground": "#DDD7CA",
 		"editorLink.activeForeground": "#FFCC66",
 		"editorMarkerNavigation.background": "#272D38",
 		"editorOverviewRuler.border": "#343D4A",
@@ -131,7 +132,10 @@
 		"scrollbarSlider.activeBackground": "#FFFFFF22",
 		"scrollbarSlider.background": "#FFFFFF11",
     "scrollbarSlider.hoverBackground": "#FFFFFF22",
-    
+    "editorOverviewRuler.addedForeground": "#8CA6BD",
+    "editorOverviewRuler.modifiedForeground": "#76CC9AAA",
+    "editorOverviewRuler.deletedForeground": "#F56174AA",
+
     "selection.background": "#343D4AFF",
     // side bar
 		"sideBar.background": "#1A1F28",
@@ -704,6 +708,12 @@
       "scope": "meta.tag.xml",
       "settings": {
         "foreground": "#F56174"
+      }
+    },
+    {
+      "scope": "meta.function-call.python",
+      "settings": {
+        "foreground": "#A9C3D9"
       }
     }
   ]

@@ -6,23 +6,19 @@
 
 ---
 
+![](showcase.png)
+
 Based on the lovely [Field Lights](https://marketplace.visualstudio.com/items?itemName=sveggiani.vscode-field-lights), with slightly cooler, more pastel highlighting modified from [Panda Syntax](https://marketplace.visualstudio.com/items?itemName=tinkertrain.theme-panda).
 
 _Includes macOS dark mode friendly variant called Desert Lights_
 
 ## Recommendations
 
-I recommend using the included custom css, which is a slightly modified version of that from the fantastic [cobalt2](https://marketplace.visualstudio.com/items?itemName=wesbos.theme-cobalt2).
+**Font:** [Iosevka SS08](http://input.fontbureau.com/download/)
 
-**Font:** [Input Mono Condensed](http://input.fontbureau.com/download/)
+**Icon Theme:** [Ayu](https://marketplace.visualstudio.com/items?itemName=teabyii.ayu) (Search Lights), [Chalice](https://marketplace.visualstudio.com/items?itemName=artlaman.chalice-icon-theme) (Desert Lights)
 
-**Icon Theme:**
-
-Search Lights: Black & White [City Lights](https://marketplace.visualstudio.com/items?itemName=Yummygum.city-lights-icon-vsc)
-
-Desert Lights: [Minimalistic Icons](https://marketplace.visualstudio.com/items?itemName=LaurentTreguier.vscode-simple-icons)
-
-**Other extensions:** [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2), [Custom CSS and JS Loader](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css)
+**Other extensions:** [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
 
 **User Settings:**
 
@@ -33,11 +29,16 @@ Desert Lights: [Minimalistic Icons](https://marketplace.visualstudio.com/items?i
     "#B084EB",
     "#FF75BC",
     "#93FEC0",
-  ],
-  
-  "bracket-pair-colorizer-2.unmatchedScopeColor": "#FF4551",
+],
+
+"bracket-pair-colorizer-2.unmatchedScopeColor": "#FF4551",
 ```
 
-_search and rescue icon by Ásgeir Vísir from the Noun Project_
+Also, if you want to be weird like me, try switching the side bar to the right:
+``` json
+"workbench.sideBar.location": "right",
+```
 
 Cheers!
+
+_search and rescue icon by Ásgeir Vísir from the Noun Project_

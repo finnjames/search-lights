@@ -18,7 +18,6 @@ a = A()
 a.hello = "lo"
 
 print(time.time())
-
 @app.route('/welcome', methods=['POST'])
 def welcome(self, a):
     content = request.get_json(silent=True, force=True)

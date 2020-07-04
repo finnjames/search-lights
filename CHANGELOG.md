@@ -1,5 +1,6 @@
 # Change Log
 
+* 1.9.10 - README update, improved Search/Desert Lights consistency
 * 1.9.9 - line number fix
 * 1.9.8 - python highlight fix
 * 1.9.7 - xml highlight fix
