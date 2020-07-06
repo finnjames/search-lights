@@ -14,7 +14,7 @@ _Includes macOS dark mode friendly variant called Desert Lights_
 
 ## Recommendations
 
-**Font:** [Iosevka SS08](http://input.fontbureau.com/download/)
+**Font:** [Iosevka SS08](https://github.com/be5invis/Iosevka/releases)
 
 **Icon Theme:** [Ayu](https://marketplace.visualstudio.com/items?itemName=teabyii.ayu) (Search Lights), [Chalice](https://marketplace.visualstudio.com/items?itemName=artlaman.chalice-icon-theme) (Desert Lights)
 
