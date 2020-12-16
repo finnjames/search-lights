@@ -27,6 +27,11 @@
         "path": "./themes/search-lights-color-theme.json"
       },
       {
+        "label": "Search Lights Italic",
+        "uiTheme": "vs-dark",
+        "path": "./themes/search-lights-italic-color-theme.json"
+      },
+      {
         "label": "Desert Lights",
         "uiTheme": "vs-dark",
         "path": "./themes/desert-lights-color-theme.json"

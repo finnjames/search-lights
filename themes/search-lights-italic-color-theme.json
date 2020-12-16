@@ -1,5 +1,5 @@
 {
-  "name": "Search Lights",
+  "name": "Search Lights Italic",
   "type": "dark",
   "colors": {
     // activity bar
@@ -224,13 +224,15 @@
     {
       "scope": "storage",
       "settings": {
-        "foreground": "#FF9473"
+        "foreground": "#FF9473",
+        "fontStyle": "italic"
       }
     },
     {
       "scope": "constant",
       "settings": {
-        "foreground": "#FF9473"
+        "foreground": "#FF9473",
+        "fontStyle": "italic"
       }
     },
     {
@@ -261,6 +263,12 @@
       "scope": "variable.other.constant, variable.language.this, variable.interpolation",
       "settings": {
         "foreground": "#FFA7D3"
+      }
+    },
+    {
+      "scope": "variable.language.this",
+      "settings": {
+        "fontStyle": "italic"
       }
     },
     {
@@ -326,7 +334,8 @@
     {
       "scope": "entity.name.function",
       "settings": {
-        "foreground": "#7DBBD1"
+        "foreground": "#7DBBD1",
+        "fontStyle": "italic"
       }
     },
     {
@@ -453,7 +462,8 @@
     {
       "scope": "entity.other.attribute-name",
       "settings": {
-        "foreground": "#FF9473"
+        "foreground": "#FF9473",
+        "fontStyle": "italic"
       }
     },
     {
@@ -705,7 +715,8 @@
     {
       "scope": "meta.function-call.python",
       "settings": {
-        "foreground": "#A9C3D9"
+        "foreground": "#A9C3D9",
+        "fontStyle": "italic"
       }
     }
   ]
