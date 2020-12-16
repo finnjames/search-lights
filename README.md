@@ -10,7 +10,7 @@
 
 Based on the lovely [Field Lights](https://marketplace.visualstudio.com/items?itemName=sveggiani.vscode-field-lights), with slightly cooler, more pastel highlighting modified from [Panda Syntax](https://marketplace.visualstudio.com/items?itemName=tinkertrain.theme-panda).
 
-_Includes macOS dark mode friendly variant called Desert Lights_
+_As of 1.10.0, includes an italic variant!_
 
 ## Recommendations
 
@@ -34,7 +34,7 @@ _Includes macOS dark mode friendly variant called Desert Lights_
 "bracket-pair-colorizer-2.unmatchedScopeColor": "#FF4551",
 ```
 
-Also, if you want to be weird like me, try switching the side bar to the right:
+Also, I like working with the side bar on the right:
 ``` json
 "workbench.sideBar.location": "right",
 ```
