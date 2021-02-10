@@ -1,5 +1,6 @@
 # Changelog
 
+* 1.10.1 - desert lights italic variant & json config files easier to read
 * 1.10.0 - italic variant
 * 1.9.11 - README fix
 * 1.9.10 - README update, improved Search/Desert Lights consistency

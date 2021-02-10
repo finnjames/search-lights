@@ -707,6 +707,12 @@
       "settings": {
         "foreground": "#A9C3D9"
       }
+    },
+    {
+      "scope": "support.type.property-name.json",
+      "settings": {
+        "foreground": "#CFAFFA",
+      }
     }
   ]
 }

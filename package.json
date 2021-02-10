@@ -35,6 +35,11 @@
         "label": "Desert Lights",
         "uiTheme": "vs-dark",
         "path": "./themes/desert-lights-color-theme.json"
+      },
+      {
+        "label": "Desert Lights Italic",
+        "uiTheme": "vs-dark",
+        "path": "./themes/desert-lights-italic-color-theme.json"
       }
     ]
   }
