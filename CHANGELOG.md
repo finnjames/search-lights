@@ -1,5 +1,6 @@
 # Changelog
 
+* 1.10.2 - `editorBracketHighlight` support
 * 1.10.1 - desert lights italic variant & json config files easier to read
 * 1.10.0 - italic variant
 * 1.9.11 - README fix
@@ -15,7 +16,7 @@
 * 1.9.1 - small color tweaks, updated `colors.md`
 * 1.9.0 - fairly sizable rework of Desert Lights, plus a small blue color tweak
 * 1.8.1 - slight green color tweak (no more Razer bloom)
-* 1.8.0 - new macOS friendly gray variant, Desert Lights
+* 1.8.0 - new macOS Mojave friendly gray variant, Desert Lights
 * 1.7.11 - slight blue color tweak
 * 1.7.10 - README update
 * 1.7.9 - ui color scheme consolidation

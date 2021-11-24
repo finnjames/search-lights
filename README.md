@@ -8,36 +8,17 @@
 
 ![](showcase.png)
 
-Based on the lovely [Field Lights](https://marketplace.visualstudio.com/items?itemName=sveggiani.vscode-field-lights), with slightly cooler, more pastel highlighting modified from [Panda Syntax](https://marketplace.visualstudio.com/items?itemName=tinkertrain.theme-panda).
+Based on the lovely [Field Lights](https://marketplace.visualstudio.com/items?itemName=sveggiani.vscode-field-lights), with cooler, more pastel highlighting modified from [Panda Syntax](https://marketplace.visualstudio.com/items?itemName=tinkertrain.theme-panda).
 
-_As of 1.10.0, includes an italic variant!_
+Want something a little warmer? Try my new theme [Head in the Clouds](https://marketplace.visualstudio.com/items?itemName=radiolevity.head-in-the-clouds).
 
 ## Recommendations
 
-**Font:** [Iosevka SS08](https://github.com/be5invis/Iosevka/releases)
+**Font:** [Ellograph](https://connary.com/ellograph.html) or [Cascadia Mono](https://github.com/microsoft/cascadia-code) with cursive italics
 
-**Icon Theme:** [Ayu](https://marketplace.visualstudio.com/items?itemName=teabyii.ayu) (Search Lights), [Chalice](https://marketplace.visualstudio.com/items?itemName=artlaman.chalice-icon-theme) (Desert Lights)
+**Icon Theme:** [Ayu](https://marketplace.visualstudio.com/items?itemName=teabyii.ayu)
 
-**Other extensions:** [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
-
-**User Settings:**
-
-``` json
-"bracket-pair-colorizer-2.colors": [
-    "#FFCC66",
-    "#7FCDFF",
-    "#B084EB",
-    "#FF75BC",
-    "#93FEC0",
-],
-
-"bracket-pair-colorizer-2.unmatchedScopeColor": "#FF4551",
-```
-
-Also, I like working with the side bar on the right:
-``` json
-"workbench.sideBar.location": "right",
-```
+**Settings:** `"editor.bracketPairColorization.enabled": true`
 
 Cheers!
 

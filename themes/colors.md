@@ -8,7 +8,7 @@ base2  (comment) #5C6773
 base3  (fg)      #DDD7CA
 
 orange           #FF9473
-yellow           #FFCC66 // field lights
+yellow           #FFCC66 // from field lights
 red              #F56174
   pale red       #F58E9C
 magenta          #FF75BC
@@ -23,7 +23,7 @@ green            #93FEC0
 
 alert            #FF4551
 
-## Desert Lights
+## Desert Lights (neutral gray)
 
 base03           #1C1C1C
 base02           #202020
@@ -34,6 +34,7 @@ base1  (comment) #505050
 base2            #717171
 base3  (fg)      #DDD7CA
 
+## Brackets
 "#FFCC66",
 "#8CA6BD",
 "#B084EB",

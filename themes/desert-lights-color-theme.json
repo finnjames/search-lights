@@ -174,7 +174,8 @@
     // other terminal
     "terminal.background": "#202020",
     "terminal.foreground": "#DDD7CA",
-    "terminal.border": "#505050",
+    "terminal.border": "#2A2A2A",
+    "terminal.tab.activeBorder": "#FFCC66",
     "terminalCursor.foreground": "#FF9473",
     "terminalCursor.background": "#202020",
     "textBlockQuote.background": "#262626",
@@ -187,7 +188,13 @@
     "titleBar.inactiveBackground": "#202020",
     "titleBar.inactiveForeground": "#717171",
     "walkThrough.embeddedEditorBackground": "#262626",
-    "widget.shadow": "#202020B3"
+    "widget.shadow": "#202020B3",
+    // bracket pairs
+    "editorBracketHighlight.foreground1": "#FFCC66",
+    "editorBracketHighlight.foreground2": "#7FCDFF",
+    "editorBracketHighlight.foreground3": "#B084EB",
+    "editorBracketHighlight.foreground4": "#FF75BC",
+    "editorBracketHighlight.foreground5": "#93FEC0",
   },
   "tokenColors": [
     {
