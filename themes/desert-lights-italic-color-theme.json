@@ -198,6 +198,12 @@
   },
   "tokenColors": [
     {
+      "scope": "entity.name.tag",
+      "settings": {
+        "foreground": "#f56174"
+      }
+    },
+    {
       "scope": "comment",
       "settings": {
         "foreground": "#717171",
