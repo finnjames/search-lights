@@ -1,5 +1,6 @@
 # Changelog
 
+* 1.10.3 - HTML-like tag fix (e.g. svelte), thanks [endigma](https://github.com/endigma)!
 * 1.10.2 - `editorBracketHighlight` support
 * 1.10.1 - desert lights italic variant & json config files easier to read
 * 1.10.0 - italic variant
