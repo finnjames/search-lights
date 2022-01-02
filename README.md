@@ -19,7 +19,3 @@ Want something a little warmer? Try my new theme [Head in the Clouds](https://ma
 **Icon Theme:** [Ayu](https://marketplace.visualstudio.com/items?itemName=teabyii.ayu)
 
 **Settings:** `"editor.bracketPairColorization.enabled": true`
-
-Cheers!
-
-_search and rescue icon by Ásgeir Vísir from the Noun Project_
